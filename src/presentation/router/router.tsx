@@ -1,6 +1,7 @@
 import { Navigate, createBrowserRouter } from "react-router-dom";
 import { DashboardLayout } from "../layouts/DashboardLayout";
-import { AssistantPage } from "../pages";
+// import { AssistantPage } from "../pages";
+import AssistantPage from "../pages/assistant/AssistantPage";
 import AudioToTextPage from "../pages/auddio-to-text/AudioToTextPage";
 import ImageGenerationPage from "../pages/image-generation/ImageGenerationPage";
 import ImageTunningPage from "../pages/image-generation/ImageTunningPage";

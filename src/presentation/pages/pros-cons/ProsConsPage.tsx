@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { prosConsDicusserUseCase } from "../../../core/use-cases/pros-cons-dicusser.use-case";
+import { prosConsDicusserUseCase } from "../../../core/use-cases/pros-cons/pros-cons-dicusser.use-case";
 import {
   GptMessages,
   MyMessage,
